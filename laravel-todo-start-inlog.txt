@@ -1,0 +1,6 @@
+run: php artisan serve
+
+website: localhost:8000
+
+login: bobdoe@todo.nl
+pw: 12345678
